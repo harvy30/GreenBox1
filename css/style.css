@@ -1,0 +1,36 @@
+div#mainContainer {
+    width: 995px;
+    height: auto;
+    text-align: center;
+    border: white;
+}
+
+div#header {
+    width: 995px;
+    height: 70px;
+    background: #00a651;
+}
+
+div#section {
+    width: 995px;
+    height: 500px;
+    background: #7cc576;
+}
+
+
+div.divAll {
+    width: 321px;
+    height: 470px;
+    margin: 5px;
+    background: #00a651;
+    float: left;
+
+}
+div.dummy {
+    clear: both;
+}
+div#footer {
+    width: 995px;
+    height: 150px;
+    background: #00a651;
+}
